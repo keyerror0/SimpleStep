@@ -4,9 +4,13 @@ A lightweight QoL mod that improves movement in Minecraft!
 ## Features
 
 ✔ Disables Auto-Jump – No more forced jumping when walking near blocks!
+
 ✔ 1-Block Step-Up – Walk onto full blocks like stairs (no jumping needed).
+
 ✔ Zero Configuration – Works instantly with no commands or settings.
+
 ✔ Client+Server Compatible – Works in both singleplayer and multiplayer.
+
 Why Choose This Mod?
 
     Minimalist – No bloated features or complex configs.
